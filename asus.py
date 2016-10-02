@@ -74,8 +74,7 @@ class image_converter:
 			self.num=self.num+1
 			if self.num==10:
                         	self.engine.say('Hi ')
-				#self.engine.say( list(dictid.keys())[list(dictid.values()).index(pred)])
-				self.engine.say('Lucas')
+				self.engine.say( list(dictid.keys())[list(dictid.values()).index(pred)])
 				self.engine.runAndWait()
 				with spr.Microphone() as source:
 					rg.adjust_for_ambient_noise(source)
