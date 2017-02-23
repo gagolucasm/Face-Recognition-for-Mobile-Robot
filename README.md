@@ -34,3 +34,6 @@ When it´s ready, just run:
 
 `python face_detect_v5.py`
 
+## Licence
+
+This proyect is Copyright © 2015-2017 Lucas Gago. It is free software, and may be redistributed under the terms specified in the [MIT Licence](https://opensource.org/licenses/MIT).
