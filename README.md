@@ -1,7 +1,8 @@
 # Face Recognition for Mobile Robot
 
 Complete code to connect with ROS an Asus Xtion Pro Live (Infrared 3D sensor camera), and use it's camera feed to identify people in real time. Includes the database generator (gdasus.py) ready to work into a Nvidia Tegra TK1.
-## Instalation
+
+## Installation
 
 Clone the repository in your computer:
 
